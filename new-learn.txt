@@ -1,3 +1,5 @@
 Hi 
 I am creating this to learn how to use Git
 Also upload new projects
+And become so good in Python
+And land a job
