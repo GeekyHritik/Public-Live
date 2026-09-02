@@ -1,2 +1,3 @@
 Hi 
 I am creating this to learn how to use Git
+Also upload new projects
